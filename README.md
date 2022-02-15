@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+this app is a text manipulator and has its perks.
+to view the deployed app go to https://textutils2.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
